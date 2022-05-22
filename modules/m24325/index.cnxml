@@ -1,0 +1,47 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>PORTRAIT DU RÉDACTEUR-EN-CHEF</title>
+  <metadata>
+  <md:content-id>m24325</md:content-id><md:title>PORTRAIT DU RÉDACTEUR-EN-CHEF</md:title>
+  <md:abstract/>
+  <md:uuid>65bde9d2-d822-4141-9553-340006c9f3d0</md:uuid>
+</metadata>
+
+<content>
+    <para id="eip-755"><media id="buybutton" alt="Le Petit Journal des Réfusées-- buy from Rice University Press.">
+		  <image mime-type="image/jpeg" src="http://rup.rice.edu/petit-buybutton.jpg">
+		  <param name="style" value="padding: 3px; margin-left: 5px; border: solid;      border-width:1px; border-color:#002469; float: right;       cursor: pointer;"/>
+		<param name="onclick" value="window.open('http://rup.rice.edu/petitjournal.html','','');"/>
+	<param name="onmouseover" value="document.body.style.cursor = 'hand';"/> 
+	<param name="onmouseout" value="document.body.style.cursor = 'default';"/>
+</image>
+
+	  </media>
+ </para><para id="eip-613"><media id="page3" alt="Thumbnail of page 3 of Le Petit Journal des Refusees">
+<image mime-type="image/jpeg" src="../../media/000000782_0004-thumbnail.jpg"/>
+</media><newline/>
+<link url="http://dspacetest.rice.edu/bitstream/handle/1911/7053/000000782_0004.jpg?sequence=4">View a high-resolution scan of the original page.</link>
+</para><section id="id14260113">
+      <title>Jas Marrion 2nd</title>
+      <section id="id13090032">
+        <title>REFUSED BY MISS ALICIA FEATHERBONE VIVETTE AND THE PRINCESS PERILLA</title>
+        <para id="id12835309">Dear Madam:</para>
+        <para id="id12906877">Not Available</para>
+        <para id="id12838070">Yours Truly</para>
+        <para id="id14262330">Dear Madam,</para>
+        <para id="id14262334">It is impossible to accept more than a small proportion of the contributions submitted to us and in returning the enclosed we beg you will understand that it does not imply a</para>
+        <para id="id13009368">Dear Madam</para>
+        <para id="id13136425">We are sorry to be compelled to return with thanks the accompanying article. It is returned not on account of lack of literary merit but because it does not exactly suit</para>
+        <para id="id12907334">I beg you will understand its rejection does not imply that</para>
+        <para id="id13103290">Dear Madam</para>
+        <para id="id13206516">We regret to inform you that the inclosed manus-</para>
+        <para id="id8423925">Dear Madam,</para>
+        <para id="id8423929">Owing to pressure of other matters upon our columns we are unable to</para>
+        <para id="id13227756">Dear Madam</para>
+        <para id="id13106654">The enclosed Ms. Is returned with thanks for your courtesy in allowing us an opportunity of examining it.</para>
+        <para id="id12771166">Cordially</para>
+        <para id="id12905595">Dear Madam:</para>
+        <para id="id12905599">The editor presents his compliments and regrets</para>
+      </section>
+    </section>
+  </content>
+</document>

@@ -1,0 +1,34 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>A CATCHY "AD"</title>
+  <metadata>
+  <md:content-id>m24316</md:content-id><md:title>A CATCHY "AD"</md:title>
+  <md:abstract/>
+  <md:uuid>2f1f45ca-d69d-449c-9449-a61a717d6703</md:uuid>
+</metadata>
+
+<content>
+    <para id="eip-500"><media id="buybutton" alt="Le Petit Journal des Réfusées-- buy from Rice University Press.">
+		  <image mime-type="image/jpeg" src="http://rup.rice.edu/petit-buybutton.jpg">
+		  <param name="style" value="padding: 3px; margin-left: 5px; border: solid;      border-width:1px; border-color:#002469; float: right;       cursor: pointer;"/>
+		<param name="onclick" value="window.open('http://rup.rice.edu/petitjournal.html','','');"/>
+	<param name="onmouseover" value="document.body.style.cursor = 'hand';"/> 
+	<param name="onmouseout" value="document.body.style.cursor = 'default';"/>
+</image>
+
+	  </media>
+ </para><para id="eip-196"><media id="frizzlefrazzle" alt="Thumbnail of Le Petit Journal page">
+<image mime-type="image/jpeg" src="../../media/000000782_0016-thumbnail.jpg"/>
+</media><newline/>
+<link url="http://dspacetest.rice.edu/bitstream/handle/1911/7053/000000782_0016.jpg">View a high-resolution scan of the original page.</link></para><section id="id1169886686905">
+      <title>WILL TURN A DOLLAR QUICKLY</title>
+      <section id="id8758545">
+        <title>WE DO HIGH GRADE DESIGNING &amp; ENGRAVING BY EVERY PROCESS</title>
+        <para id="id584550">
+          <emphasis>Union Photo Eng. Co.</emphasis>
+        </para>
+        <para id="id1169878938861">523 Market St.</para>
+        <para id="id923349">San Francisco</para>
+      </section>
+    </section>
+  </content>
+</document>

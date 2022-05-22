@@ -1,0 +1,46 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>LE PETIT JOURNAL DES REFUSÉES</title>
+  <metadata>
+  <md:content-id>m24322</md:content-id><md:title>LE PETIT JOURNAL DES REFUSÉES</md:title>
+  <md:abstract/>
+  <md:uuid>1ce46779-5796-4a47-a89a-0809b4b2b61e</md:uuid>
+</metadata>
+
+<content>
+    <para id="eip-658"><media id="buybutton" alt="Le Petit Journal des Réfusées-- buy from Rice University Press.">
+		  <image mime-type="image/jpeg" src="http://rup.rice.edu/petit-buybutton.jpg">
+		  <param name="style" value="padding: 3px; margin-left: 5px; border: solid;      border-width:1px; border-color:#002469; float: right;       cursor: pointer;"/>
+		<param name="onclick" value="window.open('http://rup.rice.edu/petitjournal.html','','');"/>
+	<param name="onmouseover" value="document.body.style.cursor = 'hand';"/> 
+	<param name="onmouseout" value="document.body.style.cursor = 'default';"/>
+</image>
+
+	  </media>
+ </para><para id="eip-763"><media id="page3" alt="Thumbnail of page 3 of Le Petit Journal des Refusees">
+<image mime-type="image/jpeg" src="../../media/000000782_0003-thumbnail.jpg"/>
+</media><newline/>
+<link url="http://dspacetest.rice.edu/bitstream/handle/1911/7053/000000782_0003.jpg?sequence=3">View a high-resolution scan of the original page.</link></para><section id="id13047348">
+      <title>A QUARTERLY No. 1 July 1st 1896</title>
+      <section id="id5638109"><title>16 CENTS A NUMBER $16 A YEAR</title>
+        <section id="id12624873">
+          <title>Published at 523 Market St. San Francisco</title>
+          <para id="para-id12624873">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+          </para>
+        </section>
+        <section id="id12626085">
+          <title>James Marrion 2nd Redacteur en chef</title>
+          <para id="para-id12626085">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+          </para>
+        </section>
+        <section id="id12459361">
+          <title>A. de CADENT MATTOID Particeps Criminis</title>
+          <para id="id12624502">From the standpoint of those controversialists whom it is thought by certain parties are quite reliable on matters of Literature but who we constantly find making gratuitous allusions of an uncomplimentary character to the feminine authoresses of the day who most of all others deserve our leniency and in most cases are equally as good as the balance of literary workers in the field of letters, though their work is commonly signalized by the infallible ear-marks of the petticoat—women should not write; but it may be pled the exceptional merit of some of their work deserves every praise and condones the commission of errors which even the best of us cannot help. In the P.J.R. some of their productions that have been ruthlessly rejected by less large-hearted and appreciative editors than myself are permitted to witness the light of day for the first and last time; their extreme beauty is due only to the exceptional ability of their fair makers and I take pleasure in opening to their crushed and despairing spirits this opportunity to get into print.</para>
+          <para id="id12841972">James Marrion, 2<sup>nd</sup>,</para>
+          <para id="id12788473">Redacteur-en-Chef.</para>
+        </section>
+      </section>
+    </section>
+  </content>
+</document>

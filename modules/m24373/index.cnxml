@@ -1,0 +1,39 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Number One</title>
+  <metadata>
+  <md:content-id>m24373</md:content-id><md:title>Number One</md:title>
+  <md:abstract/>
+  <md:uuid>46f13568-0d2b-44c2-85e4-a2e417c242e4</md:uuid>
+</metadata>
+
+<content>
+    <para id="eip-73"><media id="buybutton" alt="Le Petit Journal des Réfusées-- buy from Rice University Press.">
+		  <image mime-type="image/jpeg" src="http://rup.rice.edu/petit-buybutton.jpg">
+		  <param name="style" value="padding: 3px; margin-left: 5px; border: solid;      border-width:1px; border-color:#002469; float: right;       cursor: pointer;"/>
+		<param name="onclick" value="window.open('http://rup.rice.edu/petitjournal.html','','');"/>
+	<param name="onmouseover" value="document.body.style.cursor = 'hand';"/> 
+	<param name="onmouseout" value="document.body.style.cursor = 'default';"/>
+</image>
+
+	  </media>
+ </para><para id="eip-850"><media id="page1" alt="Thumbnail of page 2 of Le Petit Journal des Refusees">
+<image mime-type="image/jpeg" src="../../media/000000782_0001-thumbnail.jpg"/>
+</media><newline/>
+<link url="http://dspacetest.rice.edu/bitstream/handle/1911/7053/000000782_0001.jpg?sequence=1">View a high-resolution scan of the original page.</link>
+</para><section id="id1170066594758">
+      <title>Number One - Quarterly - Summer 1896</title>
+      <section id="id1170067343319">
+        <title>Published by James Marrion 2nd 523 Market St. SF CAL</title>
+        <section id="id1170057245113">
+          <title>Le Petit Journal des Refusées: Price 16 Cts.</title>
+          <para id="id1170063830445">Art</para>
+          <para id="id1170061602390">Literature</para>
+          <para id="id1170063952655">Counterpoint</para>
+          <para id="id1170067373038">Vulgar Factions</para>
+          <para id="id1170057597584">Dress Reform</para>
+          <para id="id1170057417811">Yachting</para>
+        </section>
+      </section>
+    </section>
+  </content>
+</document>

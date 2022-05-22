@@ -1,0 +1,25 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Portraits</title>
+  <metadata>
+  <md:content-id>m24377</md:content-id><md:title>Portraits</md:title>
+  <md:abstract/>
+  <md:uuid>f0d7039a-e466-4a92-9d20-5f00cb776795</md:uuid>
+</metadata>
+
+<content>
+    <para id="eip-120"><media id="buybutton" alt="Le Petit Journal des Réfusées-- buy from Rice University Press.">
+		  <image mime-type="image/jpeg" src="http://rup.rice.edu/petit-buybutton.jpg">
+		  <param name="style" value="padding: 3px; margin-left: 5px; border: solid;      border-width:1px; border-color:#002469; float: right;       cursor: pointer;"/>
+		<param name="onclick" value="window.open('http://rup.rice.edu/petitjournal.html','','');"/>
+	<param name="onmouseover" value="document.body.style.cursor = 'hand';"/> 
+	<param name="onmouseout" value="document.body.style.cursor = 'default';"/>
+</image>
+
+	  </media>
+ </para><para id="eip-328"><media id="page2" alt="Thumbnail of page 2 of Le Petit Journal des Refusees">
+<image mime-type="image/jpeg" src="../../media/000000782_0002-thumbnail.jpg"/>
+</media><newline/>
+<link url="http://dspacetest.rice.edu/bitstream/handle/1911/7053/000000782_0002.jpg?sequence=2">View a high-resolution scan of the original page.</link>
+</para><para id="id1170063422395">PORTRAITS DES NOS CONTEMPORAINS</para>
+  </content>
+</document>
