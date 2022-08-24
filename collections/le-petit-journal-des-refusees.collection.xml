@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Johanna Drucker">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col10709</md:content-id>
-    <md:title>Le Petit Journal des Refusées</md:title>
+    <md:title>Le Petit Journal des Refus&#xE9;es</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</md:license>
     <md:uuid>a347d9f3-396c-4cc0-9ba0-c76e648fed33</md:uuid>
-<md:slug>le-petit-journal-des-refusees</md:slug>
-</metadata>
+    <md:slug>le-petit-journal-des-refusees</md:slug>
+  </metadata>
   <col:content>
     <col:module document="m24373"/>
     <col:module document="m24377"/>
